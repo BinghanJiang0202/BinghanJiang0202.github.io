@@ -14,8 +14,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **这是粗体** __*这是一个斜体*__ 
 
-
-
 ### 我的一个新的项目
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
