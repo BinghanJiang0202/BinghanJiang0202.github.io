@@ -1,10 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Page
 
 You can use the [editor on GitHub](https://github.com/BinghanJiang0202/BinghanJiang0202.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+[a link](www.baidu.com)
+
+![a photo](img\1.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+### 我的一个新的paper
+
+**这是粗体** __*这是一个斜体*__ 
+
+
+
+### 我的一个新的项目
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
